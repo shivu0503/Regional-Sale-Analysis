@@ -14,4 +14,4 @@ This project analyzes regional sales data to identify trends and patterns.
 - Dashboard creation for business insights
 
 ## Status
-Academic project
+Academic Group project
